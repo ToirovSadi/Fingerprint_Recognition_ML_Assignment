@@ -7,7 +7,7 @@ These tasks were presented in our Machine Learning Course as an assignment, to p
 ### Fingerprinting
 Browser fingerprinting is a technique used to identify and track individuals based on unique characteristics of their web browser configuration. These characteristics can include the browser type, version, installed plugins, and screen resolution, among others. By combining these attributes, websites can create a digital fingerprint that can be used to track user behavior across multiple sites, even if they clear their cookies or use different devices. This has raised concerns about privacy and the potential for this technology to be used for targeted advertising, surveillance, and other purposes.
 
-[Read more]([Fingerprinting](https://datadome.co/learning-center/browser-fingerprinting-techniques/))
+[Read more](https://datadome.co/learning-center/browser-fingerprinting-techniques/)
 
 ###  What you need to do
 For this task, you are required to build a fully connect feed-forward ANN model
